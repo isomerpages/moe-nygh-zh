@@ -2,6 +2,7 @@ collections:
   ny-story:
     output: true
     order:
+      - 全球合作伙伴.md
       - 董事会 & 管理层.md
       - 成就.md
       - 南中扩建计划.md
