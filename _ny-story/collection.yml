@@ -2,5 +2,6 @@ collections:
   ny-story:
     output: true
     order:
+      - 成就.md
       - 南中扩建计划.md
       - 关于我们.md
