@@ -1,0 +1,4 @@
+collections:
+  ny-curriculum:
+    output: true
+    order: []
