@@ -4,5 +4,10 @@ links:
     collection: ny-story
   - title: 南中体验
     collection: ny-experience
+  - title: 南中课程
+    collection: ny-curriculum
   - title: 加入南中
     collection: join-us
+  - title: 快速链接
+    url: /permalink
+    sublinks: []
