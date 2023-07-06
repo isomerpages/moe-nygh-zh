@@ -2,4 +2,5 @@ collections:
   ny-experience:
     output: true
     order:
+      - 学业.md
       - 双语双文化.md
