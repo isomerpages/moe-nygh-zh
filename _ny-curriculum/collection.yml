@@ -2,4 +2,5 @@ collections:
   ny-curriculum:
     output: true
     order:
+      - 课程框架/课程框架.md
       - 课程框架/.keep
