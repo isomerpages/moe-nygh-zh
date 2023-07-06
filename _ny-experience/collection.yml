@@ -2,6 +2,6 @@ collections:
   ny-experience:
     output: true
     order:
-      - 身心发展.md
-      - 学业.md
       - 双语双文化.md
+      - 学业.md
+      - 身心发展.md
