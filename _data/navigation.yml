@@ -2,5 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: 南中概况
     collection: ny-story
+  - title: 南中体验
+    collection: ny-experience
   - title: 加入南中
     collection: join-us
