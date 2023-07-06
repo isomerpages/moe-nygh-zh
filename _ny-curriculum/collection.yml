@@ -2,6 +2,7 @@ collections:
   ny-curriculum:
     output: true
     order:
+      - 才能发展/.keep
       - 课程框架/.keep
       - 课程框架/课程框架.md
       - 课程框架/原则.md
