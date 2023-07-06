@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: 南洋女子中学校
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/nyghlogo.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
