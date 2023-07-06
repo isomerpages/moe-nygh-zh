@@ -2,6 +2,7 @@ collections:
   ny-curriculum:
     output: true
     order:
+      - 才能发展/校本高才教育.md
       - 才能发展/双文化课程（BSP）和语文特选课程（CLEP）.md
       - 才能发展/才能发展.md
       - 才能发展/.keep
