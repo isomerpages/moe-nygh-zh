@@ -8,9 +8,10 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       background: /images/school_facade_new.jpg
-      button: 联系我们
-      url: /contact-us-cn/
       key_highlights:
+        - title: 联系我们
+          description: ""
+          url: /contact-us-cn/
         - title: 关注我们Facebook
           description: ""
           url: https://www.facebook.com/NanyangGirlsHighSchool
