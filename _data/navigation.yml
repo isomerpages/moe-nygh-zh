@@ -10,4 +10,16 @@ links:
     collection: join-us
   - title: 快速链接
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: 校历
+        url: https://calendar.google.com/calendar/u/0/embed?src=c_nigrkeo68hav1nmron3c2af474@group.calendar.google.com&ctz=Asia/Singapore
+      - title: 学生数据管理系统
+        url: https://portal.nygh.edu.sg/
+      - title: 全国数码学习计划
+        url: https://sites.google.com/nygh.edu.sg/nyghndlp
+      - title: 学生学习平台
+        url: https://vle.learning.moe.edu.sg/login
+      - title: 南洋女生宿舍
+        url: http://www.nyboarding.edu.sg/
+      - title: 南中玉芝图书馆
+        url: https://schoolibrary.moe.edu.sg/nygh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
