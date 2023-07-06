@@ -2,6 +2,7 @@ collections:
   ny-curriculum:
     output: true
     order:
+      - 才能发展/数学课程.md
       - 才能发展/人文课程.md
       - 才能发展/美育课程.md
       - 才能发展/校本高才教育.md
