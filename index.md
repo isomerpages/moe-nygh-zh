@@ -31,8 +31,11 @@ sections:
       button: 点击这里
       url: /nyghcn/news/
   - infobar:
+      title: 合作伙伴
+      button: 点击这里
+      url: /collaboration-cn/
+  - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
       description: Infobar description
-      button: Button Text
 ---
