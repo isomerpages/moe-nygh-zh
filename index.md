@@ -21,6 +21,11 @@ sections:
         - title: 关注我们Instagram
           description: ""
           url: https://www.instagram.com/nygh_official/?__coig_restricted=1
+  - infopic:
+      title: 2023年校园开放日
+      button: 点击这里
+      url: /news/open-house-2023-cn/
+      image: /images/oh_banner-825x460.png
   - infobar:
       title: 新闻
       button: 点击这里
