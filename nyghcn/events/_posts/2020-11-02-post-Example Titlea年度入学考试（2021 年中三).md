@@ -6,3 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+*   **Start** 8:00 AM - Nov 2 2020
+*   **End** 1:30 PM - Nov 2 2020
+*    南中校园
+
+  
+
+请点击[这里](/join-us/as-students-cn/)查看详细信息。
