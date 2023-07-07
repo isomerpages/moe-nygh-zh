@@ -23,6 +23,6 @@ sections:
           url: https://www.instagram.com/nygh_official/?__coig_restricted=1
   - infobar:
       title: 新闻
-      button: Button text
-      url: /faq/
+      button: 点击这里
+      url: /nyghcn/news/
 ---
