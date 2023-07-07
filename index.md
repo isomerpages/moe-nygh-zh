@@ -30,4 +30,9 @@ sections:
       title: 新闻
       button: 点击这里
       url: /nyghcn/news/
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
