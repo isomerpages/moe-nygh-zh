@@ -35,7 +35,7 @@ sections:
       button: 点击这里
       url: /collaboration-cn/
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
+      title: 教育联盟
+      url: /education-alliance-cn/
+      button: 点击这里
 ---
