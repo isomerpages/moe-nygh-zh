@@ -22,9 +22,7 @@ sections:
           description: ""
           url: https://www.instagram.com/nygh_official/?__coig_restricted=1
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: 新闻
       button: Button text
       url: /faq/
 ---
