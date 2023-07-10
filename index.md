@@ -25,7 +25,7 @@ sections:
       title: 2023年校园开放日
       button: 点击这里
       url: /news/open-house-2023-cn/
-      image: /images/oh_banner-825x460.png
+      image: /images/oh_banner.png
   - infobar:
       title: 新闻
       button: 点击这里
