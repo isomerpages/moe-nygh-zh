@@ -22,10 +22,10 @@ sections:
           description: ""
           url: https://www.instagram.com/nygh_official/?__coig_restricted=1
   - infopic:
-      title: 2023年校园开放日123
+      title: 2023年校园开放日test
       button: 点击这里
       url: /news/open-house-2023-cn/
-      image: /images/oh_banner.png
+      image: /images/eweb_dsabanner-825x460_0.png
   - infobar:
       title: 新闻
       button: 点击这里
