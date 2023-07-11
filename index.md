@@ -26,6 +26,7 @@ sections:
       button: 点击这里
       url: /news/open-house-2023-cn/
       image: /images/oh_banner.png
+      alt: oh
   - infobar:
       title: 新闻
       button: 点击这里
