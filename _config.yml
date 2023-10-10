@@ -1,20 +1,20 @@
 title: 南洋女子中学校
 url: https://www.cn.nygh.edu.sg
-favicon: /images/nyghlogo.png
+favicon: /images/school-crest.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#0fbdf2"
+  secondary-color: "#00558d"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#00558d"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#00558d"
     - title: media-color-three
-      color: "#00838f"
+      color: "#00558d"
     - title: media-color-four
-      color: "#00838f"
+      color: "#00558d"
     - title: media-color-five
-      color: "#00838f"
+      color: "#00558d"
 description: ""
 permalink: none
 baseurl: ""
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d31nbc3w5b7ws2.amplifyapp.com
 prod: https://master.d31nbc3w5b7ws2.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/nyghlogo.png
+shareicon: /images/school-crest.png
 is_government: false
 google_analytics: ""
 google_analytics_ga4: ""
