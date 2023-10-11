@@ -4,39 +4,29 @@ title: 南洋女子中学校
 description: Brief site description here
 image: /images/school-crest.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       background: /images/school_facade_new.jpg
-      key_highlights:
-        - title: 联系我们
-          description: ""
-          url: /contact-us-cn/
-        - title: 关注我们Facebook
-          description: ""
-          url: https://www.facebook.com/NanyangGirlsHighSchool
-        - title: 关注我们Youtube
-          description: ""
-          url: https://www.youtube.com/user/NYGH1
-        - title: 关注我们Instagram
-          description: ""
-          url: https://www.instagram.com/nygh_official/?__coig_restricted=1
+  - resources:
+      title: 公告
+      id: resources
   - infopic:
-      title: 2023年校园开放日
-      button: 点击这里
-      url: /news/open-house-2023-cn/
-      image: /images/oh_banner.png
-      alt: oh
-  - infobar:
       title: 新闻
-      button: 点击这里
+      id: infopic
+      button: 关注我们
       url: /nyghcn/news/
-  - infobar:
+      image: /images/nygen-thumbnail.png
+  - infopic:
       title: 合作伙伴
-      button: 点击这里
-      url: /collaboration-cn/
-  - infobar:
+      id: infopic
+      button: Button Text
+      url: /nyghcn/ourpartners
+      image: /images/partner-logos.png
+  - infopic:
       title: 教育联盟
-      url: /education-alliance-cn/
-      button: 点击这里
+      id: infopic
+      button: Button Text
+      url: /nyghcn/alliances
+      image: /images/founder-logos.png
 ---
