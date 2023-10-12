@@ -15,7 +15,7 @@ sections:
       title: 新闻
       id: infopic
       button: 关注我们
-      url: /nyghcn/news/
+      url: /news-cn/
       image: /images/nygen-thumbnail.png
       alt: 新闻
   - infopic:
