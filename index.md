@@ -17,16 +17,19 @@ sections:
       button: 关注我们
       url: /nyghcn/news/
       image: /images/nygen-thumbnail.png
+      alt: 新闻
   - infopic:
       title: 合作伙伴
       id: infopic
       button: Button Text
       url: /collaboration-cn/
       image: /images/partner-logos.png
+      alt: 合作伙伴
   - infopic:
       title: 教育联盟
       id: infopic
       button: Button Text
       url: /education-alliance-cn/
       image: /images/founder-logos.png
+      alt: 教育联盟
 ---
