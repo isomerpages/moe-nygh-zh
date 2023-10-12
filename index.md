@@ -21,7 +21,7 @@ sections:
       title: 合作伙伴
       id: infopic
       button: Button Text
-      url: /nyghcn/ourpartners
+      url: /collaboration-cn/
       image: /images/partner-logos.png
   - infopic:
       title: 教育联盟
