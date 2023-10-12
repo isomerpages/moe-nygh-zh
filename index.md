@@ -27,6 +27,6 @@ sections:
       title: 教育联盟
       id: infopic
       button: Button Text
-      url: /nyghcn/alliances
+      url: /education-alliance-cn/
       image: /images/founder-logos.png
 ---
