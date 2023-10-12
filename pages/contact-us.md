@@ -16,6 +16,6 @@ contacts:
       - phone: +65 6466 3275
       - email: nanyanggirls@nygh.edu.sg
       - other: ""
-    title: General Enquiries & Feedback
+    title: 联系我们
 feedback: ""
 ---
