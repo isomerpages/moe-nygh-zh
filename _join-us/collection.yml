@@ -2,7 +2,7 @@ collections:
   join-us:
     output: true
     order:
-      - CCA Instructors.md
+      - 课程辅助活动教练.md
       - 学生.md
       - 南洋女生宿舍.md
       - 校友会.md
