@@ -2,8 +2,8 @@ collections:
   ny-story:
     output: true
     order:
-      - 南中里程碑.md
       - 关于我们.md
+      - 南中里程碑.md
       - 南中扩建计划.md
       - 成就.md
       - 董事会 & 管理层.md
