@@ -1,0 +1,8 @@
+collections:
+  join-us:
+    output: true
+    order:
+      - 学生.md
+      - 南洋女生宿舍.md
+      - 校友会.md
+      - 加入南中教职员工.md
