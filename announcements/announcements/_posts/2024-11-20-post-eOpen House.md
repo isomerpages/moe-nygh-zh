@@ -7,5 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>请浏览我们的线上<a href="https://openhousenygh.com/" rel="noopener noreferrer nofollow" target="_blank"><u>开放日网站</u></a>了解详情。</strong>
-</p>
+<p></p><a class="isomer-image-wrapper" href="https://openhousenygh.com/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/WP_desktop_eOH.png"></a>
+<h4><strong>请浏览我们的</strong><a href="https://openhousenygh.com/" rel="noopener nofollow" target="_blank">线上开放日网站</a><strong>了解学校的详情。</strong></h4>
+<p></p>
