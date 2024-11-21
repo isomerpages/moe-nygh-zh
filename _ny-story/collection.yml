@@ -2,12 +2,12 @@ collections:
   ny-story:
     output: true
     order:
+      - 财务.md
       - 关于我们.md
       - 南中里程碑.md
       - 南中扩建计划.md
-      - 成就.md
       - 董事会 & 管理层.md
+      - 全球校友.md
       - 全球合作伙伴.md
       - 社会责任.md
-      - 全球校友.md
-      - 财务.md
+      - 成就.md
