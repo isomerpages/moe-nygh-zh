@@ -13,6 +13,8 @@ links:
     sublinks:
       - title: 新闻
         url: /nyghcn/news/
+      - title: 财务事项
+        url: /financial-matters-cn/
       - title: 校历
         url: https://calendar.google.com/calendar/u/0/embed?src=c_nigrkeo68hav1nmron3c2af474@group.calendar.google.com&ctz=Asia/Singapore
       - title: 学生数据管理系统
@@ -21,11 +23,9 @@ links:
         url: https://sites.google.com/nygh.edu.sg/nyghndlp
       - title: 学生学习平台
         url: https://vle.learning.moe.edu.sg/login
-      - title: 南洋女生宿舍
-        url: http://www.nyboarding.edu.sg/
-      - title: 新闻简报
-        url: /newsletters-cn/
       - title: 南中玉芝图书馆
         url: https://schoolibrary.moe.edu.sg/nygh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+      - title: 南洋女生宿舍
+        url: http://www.nyboarding.edu.sg/
   - title: English
     url: https://en.nygh.moe.edu.sg
