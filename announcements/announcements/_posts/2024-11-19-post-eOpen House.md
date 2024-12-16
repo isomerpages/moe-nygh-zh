@@ -1,7 +1,7 @@
 ---
 title: eOpen House
 permalink: /eopen-house/
-date: 2024-11-20
+date: 2024-11-19
 layout: post
 description: ""
 image: ""
