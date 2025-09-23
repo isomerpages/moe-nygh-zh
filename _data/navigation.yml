@@ -9,7 +9,7 @@ links:
   - title: 加入南中
     collection: join-us
   - title: 快速链接
-    url: /permalink
+    url: /#
     sublinks:
       - title: 新闻
         url: /nyghcn/news/
