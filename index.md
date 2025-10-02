@@ -31,6 +31,6 @@ sections:
       id: infopic
       button: 点击了解更多
       url: /education-alliance-cn/
-      image: /images/founder-logos.png
+      image: /images/edu_alliance_logos.png
       alt: 教育联盟
 ---
