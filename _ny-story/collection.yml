@@ -2,7 +2,7 @@ collections:
   ny-story:
     output: true
     order:
-      - Gift the Future.md
+      - 饮水思源.md
       - 关于我们.md
       - 南中里程碑.md
       - 南中扩建计划.md
