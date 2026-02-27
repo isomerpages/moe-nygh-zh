@@ -2,7 +2,7 @@
 layout: homepage
 title: 南洋女子中学校
 description: Brief site description here
-image: /images/school-crest.png
+image: /images/NYGH_crest_C.png
 permalink: /
 notification: ""
 sections:
