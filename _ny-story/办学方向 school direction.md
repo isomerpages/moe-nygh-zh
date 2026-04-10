@@ -4,3 +4,8 @@ permalink: /school-direction/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/strategy_map_PPT01_CL.png">
+</div>
+<p></p>
