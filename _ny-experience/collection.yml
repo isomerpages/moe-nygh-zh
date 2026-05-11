@@ -2,6 +2,7 @@ collections:
   ny-experience:
     output: true
     order:
+      - 品德与领导/.keep
       - 学生发展课程.md
       - 双语双文化.md
       - 学业.md
