@@ -2,6 +2,7 @@ collections:
   ny-curriculum:
     output: true
     order:
+      - 学习计划.md
       - 电脑资讯及教育科技课程.md
       - 品格及领导能力发展.md
       - 课程框架/.keep
